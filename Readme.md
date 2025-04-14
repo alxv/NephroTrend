@@ -12,8 +12,8 @@ The framework was developed and validated using electronic health record data fr
 
 ## Repository Contents
 
-- **`/codelists`**: Standardized clinical code lists used for patient cohort identification and feature extraction from electronic health records
-- **`/shiny_app`**: R scripts for the interactive visualization tool that provides real-time risk alerts and visualization of predicted creatinine trajectories
+- **`codelists`**: Standardized clinical code lists used for patient cohort identification and feature extraction from electronic health records
+- **`shiny_app`**: R scripts for the interactive visualization tool that provides real-time risk alerts and visualization of predicted creatinine trajectories
 
 ## Data Source
 
