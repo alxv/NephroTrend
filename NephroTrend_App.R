@@ -1,5 +1,5 @@
 # app.R
-# Shiny application for renal risk prediction with popup functionality
+# NephtroTrend Shiny application for renal risk prediction with popup functionality
 
 # Libraries
 library(shiny)
